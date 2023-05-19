@@ -27,7 +27,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
    Recall: 100% / 89%
 
                       Predicted Healthy Loans	    Predicted Non-Healthy Loans
-Health Loans	        18679	                      80
+Healthy Loans	        18679	                      80
 Non-Healthy Loans	    67	                        558
 
 
@@ -39,7 +39,7 @@ Non-Healthy Loans	    67	                        558
   Recall: 100% / 100%
 
                       Predicted Healthy Loans	    Predicted Non-Healthy Loans
-Health Loans	        18668	                      91
+Healthy Loans	        18668	                      91
 Non-Healthy Loans	    2	                          623
 
 ## Summary
